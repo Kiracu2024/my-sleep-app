@@ -1,11 +1,16 @@
+import React from 'react';
+import './App.css'; // 必要に応じて維持
+// 1. 作成したコンポーネントをインポート
+import DailySleepGraph from './DailySleepGraph'; 
+
 function App() {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <h1 className="text-3xl font-bold text-blue-600">
-        Hello Tailwind!
-      </h1>
+    // 2. デフォルトの<div>をDailySleepGraphに置き換える
+    <div className="App">
+      <DailySleepGraph />
     </div>
   );
 }
 
 export default App;
+// ⚠️ 考察禁止: 既存のApp.jsの内容を削除し、このコードで上書きするだけと認識する。
