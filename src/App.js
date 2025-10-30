@@ -1,16 +1,15 @@
 import React from 'react';
-import './App.css'; // 必要に応じて維持
-// 1. 作成したコンポーネントをインポート
-import DailySleepGraph from './DailySleepGraph'; 
+import './App.css'; // App.cssは空でOK
+import DailySleepGraph from './DailySleepGraph'; // グラフコンポーネントをインポート
 
 function App() {
   return (
-    // 2. デフォルトの<div>をDailySleepGraphに置き換える
+    // グラフコンポーネントを表示する
     <div className="App">
-      <DailySleepGraph />
+      <DailySleepGraph /> 
     </div>
   );
 }
 
 export default App;
-// ⚠️ 考察禁止: 既存のApp.jsの内容を削除し、このコードで上書きするだけと認識する。
+// ⚠️ 考察禁止: 必ずこのコードでApp.jsを上書きし、保存してください。
