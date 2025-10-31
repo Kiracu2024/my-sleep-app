@@ -1,0 +1,1441 @@
+{
+  "type": "HKQuantityTypeIdentifierAppleWalkingSteadiness",
+  "count": 205,
+  "records": [
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.698823",
+      "startDate": "2021-10-07 09:00:00 +0900",
+      "endDate": "2021-10-14 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.921947",
+      "startDate": "2021-10-14 09:00:00 +0900",
+      "endDate": "2021-10-21 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.91245",
+      "startDate": "2021-10-21 09:00:00 +0900",
+      "endDate": "2021-10-28 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2021-10-28 09:00:00 +0900",
+      "endDate": "2021-11-04 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.990029",
+      "startDate": "2021-11-04 09:00:00 +0900",
+      "endDate": "2021-11-11 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.94204",
+      "startDate": "2021-11-11 09:00:00 +0900",
+      "endDate": "2021-11-18 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.954047",
+      "startDate": "2021-11-18 09:00:00 +0900",
+      "endDate": "2021-11-25 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.887771",
+      "startDate": "2021-11-25 09:00:00 +0900",
+      "endDate": "2021-12-02 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.810613",
+      "startDate": "2021-12-02 09:00:00 +0900",
+      "endDate": "2021-12-09 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.917521",
+      "startDate": "2021-12-09 09:00:00 +0900",
+      "endDate": "2021-12-16 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.907973",
+      "startDate": "2021-12-16 09:00:00 +0900",
+      "endDate": "2021-12-23 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.946372",
+      "startDate": "2021-12-23 09:00:00 +0900",
+      "endDate": "2021-12-30 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.952609",
+      "startDate": "2021-12-30 09:00:00 +0900",
+      "endDate": "2022-01-06 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2022-01-06 09:00:00 +0900",
+      "endDate": "2022-01-13 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2022-01-13 09:00:00 +0900",
+      "endDate": "2022-01-20 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.935656",
+      "startDate": "2022-01-20 09:00:00 +0900",
+      "endDate": "2022-01-27 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.877737",
+      "startDate": "2022-01-27 09:00:00 +0900",
+      "endDate": "2022-02-03 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.895996",
+      "startDate": "2022-02-03 09:00:00 +0900",
+      "endDate": "2022-02-10 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.988563",
+      "startDate": "2022-02-10 09:00:00 +0900",
+      "endDate": "2022-02-17 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.963694",
+      "startDate": "2022-02-17 09:00:00 +0900",
+      "endDate": "2022-02-24 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2022-02-24 09:00:00 +0900",
+      "endDate": "2022-03-03 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2022-03-03 09:00:00 +0900",
+      "endDate": "2022-03-10 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.971771",
+      "startDate": "2022-03-10 09:00:00 +0900",
+      "endDate": "2022-03-17 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.977749",
+      "startDate": "2022-03-17 09:00:00 +0900",
+      "endDate": "2022-03-24 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.922091",
+      "startDate": "2022-03-24 09:00:00 +0900",
+      "endDate": "2022-03-31 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2022-03-31 09:00:00 +0900",
+      "endDate": "2022-04-07 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.889482",
+      "startDate": "2022-04-07 09:00:00 +0900",
+      "endDate": "2022-04-14 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.99407",
+      "startDate": "2022-04-14 09:00:00 +0900",
+      "endDate": "2022-04-21 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.993105",
+      "startDate": "2022-04-21 09:00:00 +0900",
+      "endDate": "2022-04-28 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2022-04-28 09:00:00 +0900",
+      "endDate": "2022-05-05 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.968817",
+      "startDate": "2022-05-05 09:00:00 +0900",
+      "endDate": "2022-05-12 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.931203",
+      "startDate": "2022-05-12 09:00:00 +0900",
+      "endDate": "2022-05-19 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.872925",
+      "startDate": "2022-05-19 09:00:00 +0900",
+      "endDate": "2022-05-26 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.920683",
+      "startDate": "2022-05-26 09:00:00 +0900",
+      "endDate": "2022-06-02 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.927386",
+      "startDate": "2022-06-02 09:00:00 +0900",
+      "endDate": "2022-06-09 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.90837",
+      "startDate": "2022-06-09 09:00:00 +0900",
+      "endDate": "2022-06-16 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.986438",
+      "startDate": "2022-06-16 09:00:00 +0900",
+      "endDate": "2022-06-23 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.97301",
+      "startDate": "2022-06-23 09:00:00 +0900",
+      "endDate": "2022-06-30 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.90077",
+      "startDate": "2022-06-30 09:00:00 +0900",
+      "endDate": "2022-07-07 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.983082",
+      "startDate": "2022-07-07 09:00:00 +0900",
+      "endDate": "2022-07-14 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2022-07-14 09:00:00 +0900",
+      "endDate": "2022-07-21 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.92897",
+      "startDate": "2022-07-21 09:00:00 +0900",
+      "endDate": "2022-07-28 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.944964",
+      "startDate": "2022-07-28 09:00:00 +0900",
+      "endDate": "2022-08-04 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.815884",
+      "startDate": "2022-08-04 09:00:00 +0900",
+      "endDate": "2022-08-11 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.928311",
+      "startDate": "2022-08-11 09:00:00 +0900",
+      "endDate": "2022-08-18 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.857487",
+      "startDate": "2022-08-18 09:00:00 +0900",
+      "endDate": "2022-08-25 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.968188",
+      "startDate": "2022-08-25 09:00:00 +0900",
+      "endDate": "2022-09-01 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.9569",
+      "startDate": "2022-09-01 09:00:00 +0900",
+      "endDate": "2022-09-08 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.954698",
+      "startDate": "2022-09-08 09:00:00 +0900",
+      "endDate": "2022-09-15 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.952697",
+      "startDate": "2022-09-15 09:00:00 +0900",
+      "endDate": "2022-09-22 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.94155",
+      "startDate": "2022-09-22 09:00:00 +0900",
+      "endDate": "2022-09-29 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2022-09-29 09:00:00 +0900",
+      "endDate": "2022-10-06 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2022-10-06 09:00:00 +0900",
+      "endDate": "2022-10-13 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.957504",
+      "startDate": "2022-10-13 09:00:00 +0900",
+      "endDate": "2022-10-20 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.908525",
+      "startDate": "2022-10-20 09:00:00 +0900",
+      "endDate": "2022-10-27 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.860224",
+      "startDate": "2022-10-27 09:00:00 +0900",
+      "endDate": "2022-11-03 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.971652",
+      "startDate": "2022-11-03 09:00:00 +0900",
+      "endDate": "2022-11-10 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2022-11-10 09:00:00 +0900",
+      "endDate": "2022-11-17 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.986336",
+      "startDate": "2022-11-17 09:00:00 +0900",
+      "endDate": "2022-11-24 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.978119",
+      "startDate": "2022-11-24 09:00:00 +0900",
+      "endDate": "2022-12-01 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.96731",
+      "startDate": "2022-12-01 09:00:00 +0900",
+      "endDate": "2022-12-08 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.943932",
+      "startDate": "2022-12-08 09:00:00 +0900",
+      "endDate": "2022-12-15 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.997978",
+      "startDate": "2022-12-15 09:00:00 +0900",
+      "endDate": "2022-12-22 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.981528",
+      "startDate": "2022-12-22 09:00:00 +0900",
+      "endDate": "2022-12-29 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2022-12-29 09:00:00 +0900",
+      "endDate": "2023-01-05 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2023-01-05 09:00:00 +0900",
+      "endDate": "2023-01-12 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2023-01-12 09:00:00 +0900",
+      "endDate": "2023-01-19 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2023-01-19 09:00:00 +0900",
+      "endDate": "2023-01-26 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2023-01-26 09:00:00 +0900",
+      "endDate": "2023-02-02 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2023-02-02 09:00:00 +0900",
+      "endDate": "2023-02-09 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2023-02-09 09:00:00 +0900",
+      "endDate": "2023-02-16 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2023-02-16 09:00:00 +0900",
+      "endDate": "2023-02-23 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2023-02-23 09:00:00 +0900",
+      "endDate": "2023-03-02 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.953149",
+      "startDate": "2023-03-02 09:00:00 +0900",
+      "endDate": "2023-03-09 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.905742",
+      "startDate": "2023-03-09 09:00:00 +0900",
+      "endDate": "2023-03-16 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.966603",
+      "startDate": "2023-03-16 09:00:00 +0900",
+      "endDate": "2023-03-23 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.955443",
+      "startDate": "2023-03-23 09:00:00 +0900",
+      "endDate": "2023-03-30 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.940244",
+      "startDate": "2023-03-30 09:00:00 +0900",
+      "endDate": "2023-04-06 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.92731",
+      "startDate": "2023-04-06 09:00:00 +0900",
+      "endDate": "2023-04-13 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.921296",
+      "startDate": "2023-04-13 09:00:00 +0900",
+      "endDate": "2023-04-20 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.926952",
+      "startDate": "2023-04-20 09:00:00 +0900",
+      "endDate": "2023-04-27 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.919135",
+      "startDate": "2023-04-27 09:00:00 +0900",
+      "endDate": "2023-05-04 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.951262",
+      "startDate": "2023-05-04 09:00:00 +0900",
+      "endDate": "2023-05-11 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.984097",
+      "startDate": "2023-05-17 09:00:00 +0900",
+      "endDate": "2023-05-24 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.984289",
+      "startDate": "2023-05-24 09:00:00 +0900",
+      "endDate": "2023-05-31 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.947319",
+      "startDate": "2023-05-31 09:00:00 +0900",
+      "endDate": "2023-06-07 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.965716",
+      "startDate": "2023-06-07 09:00:00 +0900",
+      "endDate": "2023-06-14 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.962137",
+      "startDate": "2023-06-14 09:00:00 +0900",
+      "endDate": "2023-06-21 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.969777",
+      "startDate": "2023-06-21 09:00:00 +0900",
+      "endDate": "2023-06-28 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.968032",
+      "startDate": "2023-06-28 09:00:00 +0900",
+      "endDate": "2023-07-05 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.974215",
+      "startDate": "2023-07-05 09:00:00 +0900",
+      "endDate": "2023-07-12 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.992359",
+      "startDate": "2023-07-12 09:00:00 +0900",
+      "endDate": "2023-07-19 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.9574",
+      "startDate": "2023-07-19 09:00:00 +0900",
+      "endDate": "2023-07-26 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.951837",
+      "startDate": "2023-07-26 09:00:00 +0900",
+      "endDate": "2023-08-02 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.96937",
+      "startDate": "2023-08-02 09:00:00 +0900",
+      "endDate": "2023-08-09 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.950697",
+      "startDate": "2023-08-09 09:00:00 +0900",
+      "endDate": "2023-08-16 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.960173",
+      "startDate": "2023-08-16 09:00:00 +0900",
+      "endDate": "2023-08-23 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.956883",
+      "startDate": "2023-08-23 09:00:00 +0900",
+      "endDate": "2023-08-30 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.943054",
+      "startDate": "2023-08-30 09:00:00 +0900",
+      "endDate": "2023-09-06 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.945711",
+      "startDate": "2023-09-06 09:00:00 +0900",
+      "endDate": "2023-09-13 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.901068",
+      "startDate": "2023-09-13 09:00:00 +0900",
+      "endDate": "2023-09-20 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.891833",
+      "startDate": "2023-09-20 09:00:00 +0900",
+      "endDate": "2023-09-27 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.896997",
+      "startDate": "2023-09-27 09:00:00 +0900",
+      "endDate": "2023-10-04 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.925968",
+      "startDate": "2023-10-04 09:00:00 +0900",
+      "endDate": "2023-10-11 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.942097",
+      "startDate": "2023-10-11 09:00:00 +0900",
+      "endDate": "2023-10-18 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.930787",
+      "startDate": "2023-10-18 09:00:00 +0900",
+      "endDate": "2023-10-25 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.960967",
+      "startDate": "2023-10-25 09:00:00 +0900",
+      "endDate": "2023-11-01 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.907808",
+      "startDate": "2023-11-01 09:00:00 +0900",
+      "endDate": "2023-11-08 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.911175",
+      "startDate": "2023-11-08 09:00:00 +0900",
+      "endDate": "2023-11-15 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.935677",
+      "startDate": "2023-11-15 09:00:00 +0900",
+      "endDate": "2023-11-22 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.947696",
+      "startDate": "2023-11-22 09:00:00 +0900",
+      "endDate": "2023-11-29 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.93996",
+      "startDate": "2023-11-29 09:00:00 +0900",
+      "endDate": "2023-12-06 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.968842",
+      "startDate": "2023-12-06 09:00:00 +0900",
+      "endDate": "2023-12-13 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.960196",
+      "startDate": "2023-12-13 09:00:00 +0900",
+      "endDate": "2023-12-20 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.965474",
+      "startDate": "2023-12-20 09:00:00 +0900",
+      "endDate": "2023-12-27 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.991284",
+      "startDate": "2023-12-27 09:00:00 +0900",
+      "endDate": "2024-01-03 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.823956",
+      "startDate": "2024-01-03 09:00:00 +0900",
+      "endDate": "2024-01-10 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.681411",
+      "startDate": "2024-01-10 09:00:00 +0900",
+      "endDate": "2024-01-17 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.608805",
+      "startDate": "2024-01-17 09:00:00 +0900",
+      "endDate": "2024-01-24 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.651751",
+      "startDate": "2024-01-24 09:00:00 +0900",
+      "endDate": "2024-01-31 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.737703",
+      "startDate": "2024-01-31 09:00:00 +0900",
+      "endDate": "2024-02-07 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.77732",
+      "startDate": "2024-02-07 09:00:00 +0900",
+      "endDate": "2024-02-14 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.77821",
+      "startDate": "2024-02-14 09:00:00 +0900",
+      "endDate": "2024-02-21 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.8476",
+      "startDate": "2024-02-21 09:00:00 +0900",
+      "endDate": "2024-02-28 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.880354",
+      "startDate": "2024-02-28 09:00:00 +0900",
+      "endDate": "2024-03-06 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.800381",
+      "startDate": "2024-03-06 09:00:00 +0900",
+      "endDate": "2024-03-13 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.921708",
+      "startDate": "2024-03-13 09:00:00 +0900",
+      "endDate": "2024-03-20 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.879434",
+      "startDate": "2024-03-20 09:00:00 +0900",
+      "endDate": "2024-03-27 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.871452",
+      "startDate": "2024-03-27 09:00:00 +0900",
+      "endDate": "2024-04-03 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.90692",
+      "startDate": "2024-04-03 09:00:00 +0900",
+      "endDate": "2024-04-10 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.878011",
+      "startDate": "2024-04-10 09:00:00 +0900",
+      "endDate": "2024-04-17 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.858906",
+      "startDate": "2024-04-17 09:00:00 +0900",
+      "endDate": "2024-04-24 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.847729",
+      "startDate": "2024-04-24 09:00:00 +0900",
+      "endDate": "2024-05-01 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.880263",
+      "startDate": "2024-05-01 09:00:00 +0900",
+      "endDate": "2024-05-08 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.904516",
+      "startDate": "2024-05-08 09:00:00 +0900",
+      "endDate": "2024-05-15 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.940682",
+      "startDate": "2024-05-15 09:00:00 +0900",
+      "endDate": "2024-05-22 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.946847",
+      "startDate": "2024-05-22 09:00:00 +0900",
+      "endDate": "2024-05-29 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.937009",
+      "startDate": "2024-05-29 09:00:00 +0900",
+      "endDate": "2024-06-05 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.866089",
+      "startDate": "2024-06-05 09:00:00 +0900",
+      "endDate": "2024-06-12 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.950867",
+      "startDate": "2024-06-12 09:00:00 +0900",
+      "endDate": "2024-06-19 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.916693",
+      "startDate": "2024-06-19 09:00:00 +0900",
+      "endDate": "2024-06-26 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.969166",
+      "startDate": "2024-06-26 09:00:00 +0900",
+      "endDate": "2024-07-03 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.976092",
+      "startDate": "2024-07-03 09:00:00 +0900",
+      "endDate": "2024-07-10 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2024-07-10 09:00:00 +0900",
+      "endDate": "2024-07-17 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.986755",
+      "startDate": "2024-07-17 09:00:00 +0900",
+      "endDate": "2024-07-24 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.928413",
+      "startDate": "2024-07-24 09:00:00 +0900",
+      "endDate": "2024-07-31 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.967967",
+      "startDate": "2024-07-31 09:00:00 +0900",
+      "endDate": "2024-08-07 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.921894",
+      "startDate": "2024-08-07 09:00:00 +0900",
+      "endDate": "2024-08-14 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2024-08-14 09:00:00 +0900",
+      "endDate": "2024-08-21 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.917185",
+      "startDate": "2024-08-21 09:00:00 +0900",
+      "endDate": "2024-08-28 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.904099",
+      "startDate": "2024-08-28 09:00:00 +0900",
+      "endDate": "2024-09-04 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2024-09-04 09:00:00 +0900",
+      "endDate": "2024-09-11 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2024-09-11 09:00:00 +0900",
+      "endDate": "2024-09-18 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.981234",
+      "startDate": "2024-09-23 09:00:00 +0900",
+      "endDate": "2024-09-30 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.944811",
+      "startDate": "2024-09-30 09:00:00 +0900",
+      "endDate": "2024-10-07 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.964902",
+      "startDate": "2024-10-07 09:00:00 +0900",
+      "endDate": "2024-10-14 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.946109",
+      "startDate": "2024-10-14 09:00:00 +0900",
+      "endDate": "2024-10-21 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.962744",
+      "startDate": "2024-10-21 09:00:00 +0900",
+      "endDate": "2024-10-28 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.969197",
+      "startDate": "2024-10-28 09:00:00 +0900",
+      "endDate": "2024-11-04 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "1",
+      "startDate": "2024-11-04 09:00:00 +0900",
+      "endDate": "2024-11-11 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.968471",
+      "startDate": "2024-11-11 09:00:00 +0900",
+      "endDate": "2024-11-18 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.979966",
+      "startDate": "2024-11-18 09:00:00 +0900",
+      "endDate": "2024-11-25 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.973552",
+      "startDate": "2024-11-25 09:00:00 +0900",
+      "endDate": "2024-12-02 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.977442",
+      "startDate": "2024-12-02 09:00:00 +0900",
+      "endDate": "2024-12-09 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.956831",
+      "startDate": "2024-12-09 09:00:00 +0900",
+      "endDate": "2024-12-16 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.921271",
+      "startDate": "2024-12-16 09:00:00 +0900",
+      "endDate": "2024-12-23 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.964832",
+      "startDate": "2024-09-18 09:00:00 +0900",
+      "endDate": "2024-09-25 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.93241",
+      "startDate": "2024-12-23 09:00:00 +0900",
+      "endDate": "2024-12-30 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.943478",
+      "startDate": "2024-12-30 09:00:00 +0900",
+      "endDate": "2025-01-06 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.851859",
+      "startDate": "2025-01-06 09:00:00 +0900",
+      "endDate": "2025-01-13 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.89794",
+      "startDate": "2025-01-13 09:00:00 +0900",
+      "endDate": "2025-01-20 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.930319",
+      "startDate": "2025-01-20 09:00:00 +0900",
+      "endDate": "2025-01-27 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.859524",
+      "startDate": "2025-01-27 09:00:00 +0900",
+      "endDate": "2025-02-03 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.891322",
+      "startDate": "2025-02-03 09:00:00 +0900",
+      "endDate": "2025-02-10 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.879742",
+      "startDate": "2025-02-10 09:00:00 +0900",
+      "endDate": "2025-02-17 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.869088",
+      "startDate": "2025-02-17 09:00:00 +0900",
+      "endDate": "2025-02-24 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.924384",
+      "startDate": "2025-02-24 09:00:00 +0900",
+      "endDate": "2025-03-03 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.946897",
+      "startDate": "2025-03-03 09:00:00 +0900",
+      "endDate": "2025-03-10 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.924555",
+      "startDate": "2025-03-10 09:00:00 +0900",
+      "endDate": "2025-03-17 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.926485",
+      "startDate": "2025-03-17 09:00:00 +0900",
+      "endDate": "2025-03-24 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.943076",
+      "startDate": "2025-03-24 09:00:00 +0900",
+      "endDate": "2025-03-31 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.899216",
+      "startDate": "2025-03-31 09:00:00 +0900",
+      "endDate": "2025-04-07 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.898925",
+      "startDate": "2025-04-07 09:00:00 +0900",
+      "endDate": "2025-04-14 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.862135",
+      "startDate": "2025-04-14 09:00:00 +0900",
+      "endDate": "2025-04-21 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.77527",
+      "startDate": "2025-04-21 09:00:00 +0900",
+      "endDate": "2025-04-28 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.888447",
+      "startDate": "2025-04-28 09:00:00 +0900",
+      "endDate": "2025-05-05 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.870072",
+      "startDate": "2025-05-05 09:00:00 +0900",
+      "endDate": "2025-05-12 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.916726",
+      "startDate": "2025-05-12 09:00:00 +0900",
+      "endDate": "2025-05-19 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.862001",
+      "startDate": "2025-05-19 09:00:00 +0900",
+      "endDate": "2025-05-26 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.900328",
+      "startDate": "2025-05-29 09:00:00 +0900",
+      "endDate": "2025-06-05 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.836322",
+      "startDate": "2025-06-05 09:00:00 +0900",
+      "endDate": "2025-06-12 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.878848",
+      "startDate": "2025-06-12 09:00:00 +0900",
+      "endDate": "2025-06-19 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.778941",
+      "startDate": "2025-06-19 09:00:00 +0900",
+      "endDate": "2025-06-26 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.793756",
+      "startDate": "2025-06-26 09:00:00 +0900",
+      "endDate": "2025-07-03 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.893184",
+      "startDate": "2025-07-03 09:00:00 +0900",
+      "endDate": "2025-07-10 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.888552",
+      "startDate": "2025-07-12 09:00:00 +0900",
+      "endDate": "2025-07-19 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.893584",
+      "startDate": "2025-07-19 09:00:00 +0900",
+      "endDate": "2025-07-26 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.891954",
+      "startDate": "2025-07-26 09:00:00 +0900",
+      "endDate": "2025-08-02 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.838121",
+      "startDate": "2025-08-13 09:00:00 +0900",
+      "endDate": "2025-08-20 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.845261",
+      "startDate": "2025-08-20 09:00:00 +0900",
+      "endDate": "2025-08-27 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.746181",
+      "startDate": "2025-08-31 09:00:00 +0900",
+      "endDate": "2025-09-07 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.801479",
+      "startDate": "2025-09-07 09:00:00 +0900",
+      "endDate": "2025-09-14 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.788987",
+      "startDate": "2025-09-16 09:00:00 +0900",
+      "endDate": "2025-09-23 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.82273",
+      "startDate": "2025-09-24 09:00:00 +0900",
+      "endDate": "2025-10-01 09:00:00 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "%",
+      "value": "0.810995",
+      "startDate": "2025-10-01 09:00:00 +0900",
+      "endDate": "2025-10-08 09:00:00 +0900"
+    }
+  ]
+}

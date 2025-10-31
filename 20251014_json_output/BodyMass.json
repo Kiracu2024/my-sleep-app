@@ -1,0 +1,20 @@
+{
+  "type": "HKQuantityTypeIdentifierBodyMass",
+  "count": 2,
+  "records": [
+    {
+      "sourceName": "Connect",
+      "unit": "kg",
+      "value": "65",
+      "startDate": "2018-05-30 00:00:00 +0900",
+      "endDate": "2018-05-30 00:00:00 +0900"
+    },
+    {
+      "sourceName": "ヘルスケア",
+      "unit": "kg",
+      "value": "65",
+      "startDate": "2018-05-26 23:22:45 +0900",
+      "endDate": "2018-05-26 23:22:45 +0900"
+    }
+  ]
+}

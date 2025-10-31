@@ -1,0 +1,13 @@
+{
+  "type": "HKQuantityTypeIdentifierHeight",
+  "count": 1,
+  "records": [
+    {
+      "sourceName": "ヘルスケア",
+      "unit": "cm",
+      "value": "175",
+      "startDate": "2018-05-26 23:22:45 +0900",
+      "endDate": "2018-05-26 23:22:45 +0900"
+    }
+  ]
+}

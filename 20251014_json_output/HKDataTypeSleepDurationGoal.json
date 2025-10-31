@@ -1,0 +1,13 @@
+{
+  "type": "HKDataTypeSleepDurationGoal",
+  "count": 1,
+  "records": [
+    {
+      "sourceName": "ヘルスケア",
+      "unit": "hr",
+      "value": "8",
+      "startDate": "2021-01-12 23:59:38 +0900",
+      "endDate": "2021-01-12 23:59:38 +0900"
+    }
+  ]
+}

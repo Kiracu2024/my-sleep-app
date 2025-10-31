@@ -1,0 +1,13 @@
+{
+  "type": "HKQuantityTypeIdentifierRunningStrideLength",
+  "count": 1,
+  "records": [
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "m",
+      "value": "0.859358",
+      "startDate": "2024-12-08 19:42:43 +0900",
+      "endDate": "2024-12-08 20:30:48 +0900"
+    }
+  ]
+}
