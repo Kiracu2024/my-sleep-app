@@ -1,0 +1,62 @@
+{
+  "type": "HKQuantityTypeIdentifierSixMinuteWalkTestDistance",
+  "count": 8,
+  "records": [
+    {
+      "sourceName": "Vertical ",
+      "unit": "m",
+      "value": "500",
+      "startDate": "2024-06-25 11:07:55 +0900",
+      "endDate": "2024-06-25 11:07:55 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "m",
+      "value": "500",
+      "startDate": "2024-07-09 13:17:54 +0900",
+      "endDate": "2024-07-09 13:17:54 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "m",
+      "value": "500",
+      "startDate": "2024-08-06 21:17:50 +0900",
+      "endDate": "2024-08-06 21:17:50 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "m",
+      "value": "500",
+      "startDate": "2024-08-28 19:05:53 +0900",
+      "endDate": "2024-08-28 19:05:53 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "m",
+      "value": "500",
+      "startDate": "2024-09-04 19:16:54 +0900",
+      "endDate": "2024-09-04 19:16:54 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "m",
+      "value": "500",
+      "startDate": "2024-09-12 02:28:36 +0900",
+      "endDate": "2024-09-12 02:28:36 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "m",
+      "value": "500",
+      "startDate": "2024-10-03 15:55:10 +0900",
+      "endDate": "2024-10-03 15:55:10 +0900"
+    },
+    {
+      "sourceName": "Vertical ",
+      "unit": "m",
+      "value": "500",
+      "startDate": "2024-10-24 19:38:09 +0900",
+      "endDate": "2024-10-24 19:38:09 +0900"
+    }
+  ]
+}

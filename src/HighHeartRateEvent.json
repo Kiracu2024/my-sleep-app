@@ -1,0 +1,20 @@
+{
+  "type": "HKCategoryTypeIdentifierHighHeartRateEvent",
+  "count": 2,
+  "records": [
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "",
+      "value": "HKCategoryValueNotApplicable",
+      "startDate": "2024-10-31 15:49:53 +0900",
+      "endDate": "2024-10-31 15:59:53 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "",
+      "value": "HKCategoryValueNotApplicable",
+      "startDate": "2024-11-01 15:50:46 +0900",
+      "endDate": "2024-11-01 16:00:46 +0900"
+    }
+  ]
+}

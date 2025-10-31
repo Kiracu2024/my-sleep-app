@@ -1,0 +1,125 @@
+{
+  "type": "HKQuantityTypeIdentifierHeartRateRecoveryOneMinute",
+  "count": 17,
+  "records": [
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "34.6897",
+      "startDate": "2024-07-08 20:33:25 +0900",
+      "endDate": "2024-07-08 20:33:25 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "34.6818",
+      "startDate": "2024-07-15 23:10:13 +0900",
+      "endDate": "2024-07-15 23:10:13 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "32.7002",
+      "startDate": "2024-07-30 22:41:58 +0900",
+      "endDate": "2024-07-30 22:41:58 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "32.7017",
+      "startDate": "2024-08-05 22:51:13 +0900",
+      "endDate": "2024-08-05 22:51:13 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "32.7017",
+      "startDate": "2024-08-13 00:48:55 +0900",
+      "endDate": "2024-08-13 00:48:55 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "32.7017",
+      "startDate": "2024-08-27 19:55:31 +0900",
+      "endDate": "2024-08-27 19:55:31 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "20.268",
+      "startDate": "2024-09-05 19:27:41 +0900",
+      "endDate": "2024-09-05 19:27:41 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "20.2767",
+      "startDate": "2024-09-06 20:04:25 +0900",
+      "endDate": "2024-09-06 20:04:25 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "20.2767",
+      "startDate": "2024-09-10 23:11:42 +0900",
+      "endDate": "2024-09-10 23:11:42 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "20.2217",
+      "startDate": "2024-09-16 20:19:38 +0900",
+      "endDate": "2024-09-16 20:19:38 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "12.4515",
+      "startDate": "2024-10-01 19:11:57 +0900",
+      "endDate": "2024-10-01 19:11:57 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "19.4393",
+      "startDate": "2024-10-13 23:26:26 +0900",
+      "endDate": "2024-10-13 23:26:26 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "19.4312",
+      "startDate": "2024-10-17 21:39:18 +0900",
+      "endDate": "2024-10-17 21:39:18 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "19.9812",
+      "startDate": "2024-10-24 18:15:32 +0900",
+      "endDate": "2024-10-24 18:15:32 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "25.2859",
+      "startDate": "2024-12-08 20:34:50 +0900",
+      "endDate": "2024-12-08 20:34:50 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "15.8506",
+      "startDate": "2025-10-17 19:23:18 +0900",
+      "endDate": "2025-10-17 19:23:18 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "count/min",
+      "value": "15.852",
+      "startDate": "2025-10-20 20:20:30 +0900",
+      "endDate": "2025-10-20 20:20:30 +0900"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "HKCategoryTypeIdentifierSleepChanges",
+  "count": 3,
+  "records": [
+    {
+      "sourceName": "ショートカット",
+      "unit": "",
+      "value": "HKCategoryValuePresencePresent",
+      "startDate": "2025-10-29 09:17:00 +0900",
+      "endDate": "2025-10-29 09:18:03 +0900"
+    },
+    {
+      "sourceName": "ショートカット",
+      "unit": "",
+      "value": "HKCategoryValuePresencePresent",
+      "startDate": "2025-10-29 09:18:00 +0900",
+      "endDate": "2025-10-29 09:18:35 +0900"
+    },
+    {
+      "sourceName": "ショートカット",
+      "unit": "",
+      "value": "HKCategoryValuePresencePresent",
+      "startDate": "2025-10-29 10:56:37 +0900",
+      "endDate": "2025-10-29 10:56:37 +0900"
+    }
+  ]
+}

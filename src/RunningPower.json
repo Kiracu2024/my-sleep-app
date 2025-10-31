@@ -1,0 +1,83 @@
+{
+  "type": "HKQuantityTypeIdentifierRunningPower",
+  "count": 11,
+  "records": [
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "W",
+      "value": "135.487",
+      "startDate": "2024-12-08 19:41:42 +0900",
+      "endDate": "2024-12-08 19:46:43 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "W",
+      "value": "106.277",
+      "startDate": "2024-12-08 19:46:46 +0900",
+      "endDate": "2024-12-08 19:51:50 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "W",
+      "value": "111.336",
+      "startDate": "2024-12-08 19:51:53 +0900",
+      "endDate": "2024-12-08 19:57:43 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "W",
+      "value": "106.706",
+      "startDate": "2024-12-08 19:57:46 +0900",
+      "endDate": "2024-12-08 20:05:03 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "W",
+      "value": "142.101",
+      "startDate": "2024-12-08 20:05:06 +0900",
+      "endDate": "2024-12-08 20:10:08 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "W",
+      "value": "101.092",
+      "startDate": "2024-12-08 20:10:10 +0900",
+      "endDate": "2024-12-08 20:15:53 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "W",
+      "value": "105.403",
+      "startDate": "2024-12-08 20:15:56 +0900",
+      "endDate": "2024-12-08 20:21:13 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "W",
+      "value": "101.706",
+      "startDate": "2024-12-08 20:21:15 +0900",
+      "endDate": "2024-12-08 20:26:17 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "W",
+      "value": "109.177",
+      "startDate": "2024-12-08 20:26:20 +0900",
+      "endDate": "2024-12-08 20:31:50 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "W",
+      "value": "113.252",
+      "startDate": "2025-02-23 16:21:52 +0900",
+      "endDate": "2025-02-23 16:26:54 +0900"
+    },
+    {
+      "sourceName": "KeiさんのApple Watch",
+      "unit": "W",
+      "value": "105.284",
+      "startDate": "2025-02-23 16:26:57 +0900",
+      "endDate": "2025-02-23 16:31:33 +0900"
+    }
+  ]
+}
